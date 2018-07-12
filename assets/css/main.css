@@ -162,7 +162,7 @@ input, select, textarea {
 		transition: color 0.2s ease, border-bottom 0.2s ease;
 		text-decoration: none;
 		border-bottom: dotted 1px;
-		color:  #8cc9f0;
+		color:  #2E7CAD;
 	}
 
 		a:hover {
@@ -2286,7 +2286,7 @@ input, select, textarea {
 		}
 
 		.icon.style5 {
-			color: #8cc9f0;
+			color: #2E7CAD;
 		}
 
 		@media screen and (max-width: 1680px) {
@@ -2879,7 +2879,7 @@ input, select, textarea {
 			}
 
 			.statistics li.style5 {
-				background-color: #8cc9f0;
+				background-color: #2E7CAD;
 			}
 
 			.statistics li strong, .statistics li b {
