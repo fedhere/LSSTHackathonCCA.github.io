@@ -162,7 +162,7 @@ input, select, textarea {
 		transition: color 0.2s ease, border-bottom 0.2s ease;
 		text-decoration: none;
 		border-bottom: dotted 1px;
-		color: inherit;
+		color:  #8cc9f0;
 	}
 
 		a:hover {
@@ -3272,7 +3272,7 @@ input, select, textarea {
 				}
 
 					#nav ul li a:hover {
-						background-color: rgba(222, 222, 222, 0.25);
+						background-color: rgba(140,	201,	240, 0.25);
 					}
 
 					#nav ul li a.active {
@@ -3366,7 +3366,7 @@ input, select, textarea {
 			#main input[type="button"]:hover,
 			#main button:hover,
 			#main .button:hover {
-				background-color: rgba(222, 222, 222, 0.25);
+				background-color: rgba(140,	201,	240, 0.25);
 			}
 
 			#main input[type="submit"]:active,
