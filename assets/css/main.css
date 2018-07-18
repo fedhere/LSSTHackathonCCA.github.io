@@ -8,7 +8,7 @@
 */
 
 html, body, div, span, applet, object,
-iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
+iframe, h1, h1a, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
 code, del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var, b,
@@ -100,7 +100,7 @@ input, select, textarea {
 
 	body {
 		background-color: #1F497D;
-		background-image: url("images/overlay.png"), -moz-linear-gradient(45deg, #193B65 15%, #285FA4 85%);
+		background-image: url("images/download.p"), -moz-linear-gradient(45deg, #193B65 15%, #285FA4 85%);
 		background-image: url("images/overlay.png"), -webkit-linear-gradient(45deg, #193B65 15%, #285FA4 85%);
 		background-image: url("images/overlay.png"), -ms-linear-gradient(45deg, #193B65 15%, #285FA4 85%);
 		background-image: url("images/overlay.png"), linear-gradient(45deg, #193B65 15%, #285FA4 85%);
@@ -205,11 +205,7 @@ input, select, textarea {
 			text-decoration: none;
 		}
 
-	h1 {
-		font-size: 2.8em;
-		line-height: 1.2;
-        outline-width: 1.2;
-	}
+	
 
 	h2 {
 		font-size: 1.5em;
@@ -2617,7 +2613,7 @@ input, select, textarea {
 	}
 
 	header.major {
-		margin-bottom: 3em;
+		margin-bottom: 0em;
 	}
 
 		header.major h2 {
@@ -2630,7 +2626,7 @@ input, select, textarea {
 				width: 3.25em;
 				height: 2px;
 				margin: 0.7em 0 1em 0;
-				border-radius: 2px;
+				border-radius: px;
 			}
 
 				section.special header.major h2:after, article.special header.major h2:after {
@@ -2652,6 +2648,7 @@ input, select, textarea {
 				margin-right: auto;
 			}
 
+            
 	footer.major {
 		margin-top: 3em;
 	}
